@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Asthma AI", layout="centered")
 
 # 🎨 Title
-st.title("🫁 기도 오가노이드 기반 AI 천식 분석")
+st.title("🫁 기도 오가노이드 기반 천식 중증도 분석")
 st.markdown("### 유전자 발현 데이터를 기반으로 한 중증도 예측&치료제 제안")
 st.markdown("---")
 
