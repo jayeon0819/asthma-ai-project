@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Asthma AI", layout="centered")
 
 # 🎨 Title
-st.title("🫁 기도 오가노이드 기반 천식 AI 분석 시스템")
+st.title("🫁 기도 오가노이드 기반 AI 천식 분석")
 st.markdown("### 유전자 발현 데이터를 기반으로 중증도 및 치료제를 예측합니다")
 st.markdown("---")
 
@@ -84,7 +84,7 @@ st.subheader("🧠 해석 (연구 기반 설명)")
 
 st.info(
     "이 모델은 기도 오가노이드에서 얻어지는 유전자 발현 패턴을 기반으로 설계되었으며, "
-    "유전자 수준 정보와 실제 조직 반응을 연결하여 천식 중증도 및 치료 반응성을 예측한다."
+    "유전자 수준 정보와 실제 조직 반응을 연결하여 천식 중증도 및 치료 반응성을 예측하는데에 사용될 수 있다."
 )
 
 st.markdown("---")
